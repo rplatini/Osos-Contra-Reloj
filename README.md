@@ -1,2 +1,2 @@
 # Osos-Contra-Reloj
-Project made for Algorithms &amp; Programation I
+Project made for Algorithms &amp; Programming I
