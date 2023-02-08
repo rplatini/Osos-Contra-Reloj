@@ -1,3 +1,9 @@
 # Osos-Contra-Reloj
-Proyecto creado para Algoritmos y Programación I.
-El programa consiste en un juego de consola en el que el usuario es un oso (Panda, Polar o Pardo) que se encuentra en un bosque oscuro, y puede moverse hacia la izquierda, derecha, abajo o arriba. Debe enfrentar obstáculos, como rocas, árboles y koalas malvados, que retrasarán su camino hacia Chloe, una niña amiga que se ha perdido en el bosque. Cada oso cuenta con una mochila donde guardará sus herramientas, que facilitarán su camino. Puede utilizar Linternas, Bengalas y Velas. Cada una de ellas iluminará partes del bosque de una manera diferente. El objetivo del juego es que el personaje encuentre a Chloe antes de que oscurezca, podrá lograrlo?
+Project created for Algorithms and Programming I.
+The program consists of a console game in which the user is a bear (Panda, Polar, or Brown) that is in a dark forest, and can move to the left, right, down, or up. They must face obstacles such as rocks, trees, and evil koalas that will slow down their way to Chloe, a friend who has gotten lost in the forest. Each bear has a backpack where they will store their tools, which will make their journey easier. They can use flashlights, flares, and candles. Each of them will illuminate different parts of the forest in a different way. The goal of the game is for the character to find Chloe before it gets dark, can they achieve it?
+
+### To compile the game:
+$ gcc -Wall * -o game
+
+### To execute it:
+$ ./game
